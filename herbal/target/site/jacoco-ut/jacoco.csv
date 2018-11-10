@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+herbal,com.yoshallc.herbal.dtos,HerbalDto,103,0,0,0,10,0,15,0,15,0
+herbal,com.yoshallc.herbal,HerbalApplication,0,3,0,0,0,1,0,1,0,1
+herbal,com.yoshallc.herbal.responses,HerbalResponse,16,0,0,0,4,0,4,0,4,0
+herbal,com.yoshallc.herbal.controllers,HerbalController,47,3,0,0,6,1,1,1,1,1
